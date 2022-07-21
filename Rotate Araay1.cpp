@@ -9,7 +9,7 @@ Input: arr[] = {3, 4, 5, 6, 7, 1, 2}, d=2
 Output: 5 6 7 1 2 3 4 
 */
 
-
+//Approach 1 (Using temp array)
 
 
 #include <bits/stdc++.h>
